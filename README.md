@@ -2,7 +2,7 @@
 ### Cloning :
 - Clone this repo in vendor_MiuiCameraLeica in your working directory by :
 ```
-git clone https://github.com/Saikrishna1504/vendor_MiuiCameraLeica vendor_MiuiCameraLeica
+git clone https://github.com/Saikrishna1504/vendor_MiuiCameraLeica vendor/MiuiCameraLeica
 ```
 Make these changes in **aosp_begonia.mk**
 ```
