@@ -1,4 +1,9 @@
 # Leica Camera for Redmi Note 8 Pro(begonia) AOSP
+
+# Repo has been moved into bitbucket
+
+https://bitbucket.org/saikrishna1504/vendor_miuicameraleica
+
 ### Cloning :
 - Clone this repo in vendor_MiuiCameraLeica in your working directory by :
 ```
